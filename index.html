@@ -2,69 +2,31 @@
 <html lang="en-us">
 <head>
 	<title>Yavor Ivanov CV</title>
-	
-	<!-- //////// Css StyleSheets ////////  -->
-	<link href="css/style.css"       rel="stylesheet" type="text/css" media="all"   />
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="all"   />
 	<link href="css/style-print.css" rel="stylesheet" type="text/css" media="print" />
-	
-	<!-- //////// Customs JS  ////////  -->	
-	<script type="text/javascript">
-	/* <![CDATA[ */	                                         
-		$(document).ready(function(){
-		
-			// font replacement
-			if ( ! ( $.browser.msie && ($.browser.version == 6) ) )
-			{ 	
-				$("h1#name").css({'font-size':'46px', 'padding-top':'20px' , 'margin-bottom':'0px' });
-				Cufon.replace('#portfolio h2, h2.cv-section-name, h1#name'); // using cufon with IE6 breaks the layout in some cases
-				
-			}	
-			
-			// tooltips
-			$('.tip').tipsy({gravity: 'e'});	//  apply class .tip to any <a> tag to make it's  title be displayed like a tooltip
-		});
-	/* ]]> */			
-	</script> 
-	
 </head>
 <body>
-	
 	<noscript>
 		<link href="css/nojs.css" rel="stylesheet" type="text/css" media="all" />
 		<div id="nojs">JavaScript seems to be Disabled! This website works best with JavaScript enabled.</div>
 	</noscript>
 	
 	<div id="wrap">
-	
 		<header id="header">
-			
 			<div id="block-top"></div>
-			
 			<div id="personal-info" class="fixed">
-				
 				<h1 id="name">Yavor Ivanov</h1>
 				<h2 id="what-you-do">Software Developer</h2>
-				
-			</div><!-- end #personal-info -->
-
+			</div>
 			<div class="divider"></div>
-			
-		</header><!-- end #header -->
-		
+		</header>
 		<article id="content" class="fixed">
-		<!-- ////////////////////////////////////////////////////////////////////////////////////// -->
-
 			<div id="cv-1">
-			
-				<!-- // PERSONAL DETAILS     ////////////////////////////////////////////////////// -->
 				<article id="about" class="cv-section col-1 fixed">
-				
 					<header>
 						<h2 class="cv-section-name">Personal Details</h2>
 					</header>
-					
 					<ul class="cv-section-items">
-						
 						<li class="cv-item">
 							<span class="topic">Name:</span>         
 							Yavor Ivanov
@@ -85,18 +47,12 @@
 							<span class="topic">Email:</span>
 							<a href="mailto:yavor87@gmail.com">yavor87@gmail.com</a>
 						</li>
-							
-					</ul><!-- end .cv-section-items -->
-
-				</article><!-- end .cv-section -->
-				
-				<!-- // EDUCATION            ////////////////////////////////////////////////////// -->
+					</ul>
+				</article>				
 				<article id="education" class="cv-section col-1 fixed">
-				
 					<header>
 						<h2 class="cv-section-name">Education</h2>
 					</header>
-					
 					<section class="cv-section-items">
 						<section class="cv-item">
 							<h4>2010 - 2012</h4>
@@ -123,15 +79,11 @@
 							<p>Attended primary school.</p>
 						</section>
 					</section>
-				</article><!-- end .cv-section -->
-				
-				<!-- // WORK EXPERIENCE      ////////////////////////////////////////////////////// -->
+				</article>
 				<article id="experience" class="cv-section col-1 fixed">
-				
 					<header>
 						<h2 class="cv-section-name">Work Experience</h2>
 					</header>
-					
 					<section class="cv-section-items">
 						<section class="cv-item">
 							<h4>Mar 2013 - Present</h4>
@@ -198,18 +150,12 @@
 							<p>Responsibility: Testing company software products, doing test cases, test plans, test scenarios,
 							helping development team with testing support, submitting bugs to company bug tracking system.</p>
 						</section>
-						
-					</section><!-- end .cv-section-items -->
-				
-				</article><!-- end .cv-section -->
-			
-				<!-- // TECHNICAL SKILLS     ////////////////////////////////////////////////////// -->
+					</section>
+				</article>
 				<article id="skills" class="cv-section col-1 fixed last">
-				
 					<header>
 						<h2 class="cv-section-name"> Technical Skills</h2>
 					</header>
-					
 					<ul class="cv-section-items">
 						<li class="cv-item"> 
 							<span class="topic">.NET Development</span>        
@@ -271,33 +217,20 @@
 							<span class="level l-5">Moderate experience</span> 
 							Word, Excel, PowerPoint, Outlook, Access, OneNote, Visio
 						</li>
-						
-					</ul><!-- end .cv-section-items -->
-	
-				</article><!-- end .cv-section -->
-
-			</div><!-- end #cv-1 -->	
-			
-		<!-- ////////////////////////////////////////////////////////////////////////////////////// -->	
-		</article><!-- end #content -->
+					</ul>
+				</article>
+			</div>
+		</article>
 		
 		<footer id="footer" class="fixed">
-			
 			<div class="divider2"></div>
-			
 			<p id="copyright">&copy; 2014 Yavor Ivanov. All rights reserved.</p>
 			<a href="#" id="top">&#710; Top</a>
-			
-		</footer><!-- end #footer -->
+		</footer>
 		
-		<a href="javascript:window.print()" id="print" title="Print CV" class="tip">Print CV</a>
-		<a href="#" id="download" title="Download CV" class="tip">Download CV</a>
+		<!--<a href="javascript:window.print()" id="print" title="Print CV" class="tip">Print CV</a>
+		<a href="#" id="download" title="Download CV" class="tip">Download CV</a>-->
 	
-	</div><!-- end #wrap -->
-	
-	<script type="text/javascript"> Cufon.now(); </script>
-
-	<!-- analytics code here -->
-
+	</div>
 </body>
 </html>
