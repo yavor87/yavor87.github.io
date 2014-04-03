@@ -15,8 +15,8 @@ body{
 	
 	/* Other Background Options
 	
-	background:#D1D1D1 url(/img/bg-body.jpg) repeat top left;
-	background:#D1D1D1 url(/img/bg-body-2.jpg) repeat top left;
+	background:#D1D1D1 url(../img/bg-body.jpg) repeat top left;
+	background:#D1D1D1 url(../img/bg-body-2.jpg) repeat top left;
 	background-color:#4C535C;
 	background-color:#999999;
 	background-color:#393939;
@@ -73,7 +73,7 @@ body{
 
 #wrap{ width:780px; margin:0 auto; z-index:100; position:relative;  }
 
-	#header{ background:url(/img/bg-header.png) no-repeat top left; padding:5px 40px 0px 40px; }
+	#header{ background:url(../img/bg-header.png) no-repeat top left; padding:5px 40px 0px 40px; }
 	
 		#block-top{ background-color:#eee; border:1px solid #ddd; border-top:none; height:30px; margin-bottom:40px;}
 
@@ -92,9 +92,9 @@ body{
 			ul#nav li a:hover{ color:#444; }
 			ul#nav li a.active{ color:#444; }
 			
-	#content{ background:url(/img/bg-content.png) repeat-y top left; padding:30px 40px 30px 40px; }
+	#content{ background:url(../img/bg-content.png) repeat-y top left; padding:30px 40px 30px 40px; }
 		
-	#footer{ background:url(/img/bg-footer.png) no-repeat bottom left; padding:0px 40px 30px 40px; height:80px;  }
+	#footer{ background:url(../img/bg-footer.png) no-repeat bottom left; padding:0px 40px 30px 40px; height:80px;  }
 		
 		#copyright{ color:#666; float:left; }
 		#top{ color:#666; float:right; text-decoration:none; }
@@ -123,22 +123,22 @@ body{
 			
 			ul.cv-section-items li span.level{ width:140px; display:block; float:left; }
 					
-					ul.cv-section-items li span.l-1{ text-indent:-9999px; background:#ffffff url(/img/level-1.jpg) no-repeat top left; }
-					ul.cv-section-items li span.l-2{ text-indent:-9999px; background:#ffffff url(/img/level-2.jpg) no-repeat top left; }
-					ul.cv-section-items li span.l-3{ text-indent:-9999px; background:#ffffff url(/img/level-3.jpg) no-repeat top left; }
-					ul.cv-section-items li span.l-4{ text-indent:-9999px; background:#ffffff url(/img/level-4.jpg) no-repeat top left; }
-					ul.cv-section-items li span.l-5{ text-indent:-9999px; background:#ffffff url(/img/level-5.jpg) no-repeat top left; }
-					ul.cv-section-items li span.l-6{ text-indent:-9999px; background:#ffffff url(/img/level-6.jpg) no-repeat top left; }
-					ul.cv-section-items li span.l-7{ text-indent:-9999px; background:#ffffff url(/img/level-7.jpg) no-repeat top left; }
+					ul.cv-section-items li span.l-1{ text-indent:-9999px; background:#ffffff url(../img/level-1.jpg) no-repeat top left; }
+					ul.cv-section-items li span.l-2{ text-indent:-9999px; background:#ffffff url(../img/level-2.jpg) no-repeat top left; }
+					ul.cv-section-items li span.l-3{ text-indent:-9999px; background:#ffffff url(../img/level-3.jpg) no-repeat top left; }
+					ul.cv-section-items li span.l-4{ text-indent:-9999px; background:#ffffff url(../img/level-4.jpg) no-repeat top left; }
+					ul.cv-section-items li span.l-5{ text-indent:-9999px; background:#ffffff url(../img/level-5.jpg) no-repeat top left; }
+					ul.cv-section-items li span.l-6{ text-indent:-9999px; background:#ffffff url(../img/level-6.jpg) no-repeat top left; }
+					ul.cv-section-items li span.l-7{ text-indent:-9999px; background:#ffffff url(../img/level-7.jpg) no-repeat top left; }
 												
 /* =OTHER
 ----------------------------------*/
 	
 	/* Print and Download Buttons */
-	a#print{ background:#ffffff url(/img/bg-print.jpg) no-repeat top center; border:1px solid #ccc; display:block; height:24px; padding:2px; 
+	a#print{ background:#ffffff url(../img/bg-print.jpg) no-repeat top center; border:1px solid #ccc; display:block; height:24px; padding:2px; 
 			 position:absolute; right:765px; text-indent:-9999px; top:271px; width:24px; z-index:110; }
 	
-	a#download{ background:#ffffff url(/img/bg-download.jpg) no-repeat top center; border:1px solid #ccc; display:block; height:24px; padding:2px;
+	a#download{ background:#ffffff url(../img/bg-download.jpg) no-repeat top center; border:1px solid #ccc; display:block; height:24px; padding:2px;
 				position:absolute; right:765px; text-indent:-9999px; top:300px; width:24px; z-index:111; }
 	
 		a#print:hover, a#download:hover{ padding-right:12px; }
