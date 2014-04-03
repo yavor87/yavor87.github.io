@@ -104,55 +104,32 @@ body{
 ----------------------------------*/
 
 	.cv-section{ margin-bottom:25px; }
-	.last{ margin-bottom:0px; }
+		.last{ margin-bottom:0px; }
 		
-	section.cv-item  p{ margin-bottom:10px; }
-	section.cv-item ul{ list-style:inside; padding-bottom:10px; list-style-type:disc; }
-	section.cv-item ol{ list-style:inside; list-style-type:decimal; padding-bottom:10px; }
+		section.cv-item  p, li.cv-item  p{ margin-bottom:10px; }
+		li.cv-item ul{ list-style:inside; padding-bottom:10px; list-style-type:disc; }
+		li.cv-item ol{ list-style:inside; list-style-type:decimal; padding-bottom:10px; }
 	
-	h2.cv-section-name{ text-transform:uppercase; font-size:22px; padding-bottom:10px; color:#2F6AB3;  }
-	ul.cv-section-items{ list-style:outside; list-style-type:none;  }
+		h2.cv-section-name{ text-transform:uppercase; font-size:22px; padding-bottom:10px; color:#2F6AB3;  }
+		ul.cv-section-items{ list-style:outside; list-style-type:none;  }
 		
-	section.cv-section-items section.cv-item{ border-top:1px solid #DBDEE2; padding:10px 15px; }
+		section.cv-section-items section.cv-item, ul.cv-section-items li.cv-item{ border-top:1px solid #DBDEE2; padding:10px 15px; }
 		
-	section.cv-section-items section.cv-item h4{ font-size:12px; float:right; font-weight:normal; color:#666; }
-	section.cv-section-items section.cv-item h2{ font-size:16px; font-weight:bold; color:#272D36; }
-	section.cv-section-items section.cv-item h3{ font-size:14px; font-style:italic; padding-bottom:10px; font-weight:normal;}
+			section.cv-section-items section.cv-item h4, ul.cv-section-items li.cv-item h4{ font-size:12px; float:right; font-weight:normal; color:#666; }
+			section.cv-section-items section.cv-item h2, ul.cv-section-items li.cv-item h2{ font-size:16px; font-weight:bold; color:#272D36; }
+			section.cv-section-items section.cv-item h3, ul.cv-section-items li.cv-item h3{ font-size:14px; font-style:italic; padding-bottom:10px; font-weight:normal;}
 			
-	ul.cv-section-items li span.topic{ font-weight:bold; display:block; float:left; width:150px;  }
+			ul.cv-section-items li span.topic{ font-weight:bold; display:block; float:left; width:150px;  }
 			
-	ul.cv-section-items li span.level{ width:140px; display:block; float:left; }
+			ul.cv-section-items li span.level{ width:140px; display:block; float:left; }
 					
-	ul.cv-section-items li span.l-1{ text-indent:-9999px; background:#ffffff url(/img/level-1.jpg) no-repeat top left; }
-	ul.cv-section-items li span.l-2{ text-indent:-9999px; background:#ffffff url(/img/level-2.jpg) no-repeat top left; }
-	ul.cv-section-items li span.l-3{ text-indent:-9999px; background:#ffffff url(/img/level-3.jpg) no-repeat top left; }
-	ul.cv-section-items li span.l-4{ text-indent:-9999px; background:#ffffff url(/img/level-4.jpg) no-repeat top left; }
-	ul.cv-section-items li span.l-5{ text-indent:-9999px; background:#ffffff url(/img/level-5.jpg) no-repeat top left; }
-	ul.cv-section-items li span.l-6{ text-indent:-9999px; background:#ffffff url(/img/level-6.jpg) no-repeat top left; }
-	ul.cv-section-items li span.l-7{ text-indent:-9999px; background:#ffffff url(/img/level-7.jpg) no-repeat top left; }			
-			
-	#cv-1{}
-			
-		#cv-1 ul.cv-section-items li span.level{ margin-right:20px; }
-		
-	#cv-2{}
-				
-		#cv-2 h2.cv-section-name{ border-top:3px solid #DBDEE2; width:150px; float:left; padding-top:15px; }	
-		#cv-2 ul.cv-section-items{ margin-top:1px; width:550px; float:right; }
-		#cv-2 ul.cv-section-items li span.level{ margin-right:10px; margin-bottom:10px; }
-						
-		#cv-2 #technical-skills ul.cv-section-items li span.topic{ width:370px; }
-					
-	#cv-3{}
-		
-		#cv-3 h2.cv-section-name{ padding-top:15px; border-top:6px solid #DBDEE2; }	
-		#cv-3 ul.cv-section-items li.cv-item{ padding:10px 1px;}
-		#cv-3 ul.cv-section-items li.cv-item h4{ float:left; width:150px; }
-		#cv-3 ul.cv-section-items li span.topic{ width:150px; }
-		#cv-3 ul.cv-section-items li span.level{ margin-right:10px;}
-		
-		#cv-3 ul.cv-section-items li.cv-item .cv-item-content{ float:right; width:540px; }
-		#cv-3 #technical-skills ul.cv-section-items li span.topic{ float:none; width:540px; font-size:16px; }
+					ul.cv-section-items li span.l-1{ text-indent:-9999px; background:#ffffff url(/img/level-1.jpg) no-repeat top left; }
+					ul.cv-section-items li span.l-2{ text-indent:-9999px; background:#ffffff url(/img/level-2.jpg) no-repeat top left; }
+					ul.cv-section-items li span.l-3{ text-indent:-9999px; background:#ffffff url(/img/level-3.jpg) no-repeat top left; }
+					ul.cv-section-items li span.l-4{ text-indent:-9999px; background:#ffffff url(/img/level-4.jpg) no-repeat top left; }
+					ul.cv-section-items li span.l-5{ text-indent:-9999px; background:#ffffff url(/img/level-5.jpg) no-repeat top left; }
+					ul.cv-section-items li span.l-6{ text-indent:-9999px; background:#ffffff url(/img/level-6.jpg) no-repeat top left; }
+					ul.cv-section-items li span.l-7{ text-indent:-9999px; background:#ffffff url(/img/level-7.jpg) no-repeat top left; }
 												
 /* =OTHER
 ----------------------------------*/
