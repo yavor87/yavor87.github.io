@@ -130,6 +130,8 @@ body{
 					ul.cv-section-items li span.l-5{ text-indent:-9999px; background:#ffffff url(../img/level-5.jpg) no-repeat top left; }
 					ul.cv-section-items li span.l-6{ text-indent:-9999px; background:#ffffff url(../img/level-6.jpg) no-repeat top left; }
 					ul.cv-section-items li span.l-7{ text-indent:-9999px; background:#ffffff url(../img/level-7.jpg) no-repeat top left; }
+
+            ul.cv-section-items li span.level{ margin-right:20px; }
 												
 /* =OTHER
 ----------------------------------*/
