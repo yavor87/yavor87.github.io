@@ -4,6 +4,7 @@
  
 	#wrap{ width: 100%; margin: 10px; float: none; }
 	#header, #footer, a#print, a#download{ display:none; }
+    a { text-decoration: none; color: inherit; }
 
 	#content{ padding:0; }
 	
@@ -11,7 +12,7 @@
 	
 	h2.cv-section-name{ font-size:16px; font-weight:bold; border-bottom:none; }
 	
-	ul.cv-section-items li.cv-item h4{ margin-right:10px; }
+	section.cv-section-items section.cv-item h4, ul.cv-section-items li.cv-item h4{ margin-right:10px; }
 	
 	ul.cv-section-items li span.l-1,
 	ul.cv-section-items li span.l-2,
