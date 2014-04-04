@@ -26,14 +26,14 @@
 	
 		#cv-2 h2.cv-section-name{ float:none; width:100%; border-top:none; }
 		#cv-2 ul.cv-section-items{ float:none; width:100%; }
-		#cv-2 #technical-skills ul.cv-section-items li span.topic{ width:150px; }
+		#cv-2 #technical-skills ul.cv-section-items li strong.topic{ width:150px; }
 	
 	cv-3{}
 	
 		#cv-3 h2.cv-section-name{ float:none; width:100%; border-top:none; }
 		#cv-3 ul.cv-section-items li.cv-item h4{ float:none; width:100%; }
 		#cv-3 ul.cv-section-items li.cv-item .cv-item-content{ float:none; width:100%; }
-		#cv-3 #technical-skills ul.cv-section-items li span.topic{ float:none; width:100%; }
+		#cv-3 #technical-skills ul.cv-section-items li strong.topic{ float:none; width:100%; }
 		#cv-3 ul.cv-section-items li span.level{ float:none; width:100%; }
 		
 	/* In IE for some reason it printed the tooltip as well when pressing the print button
