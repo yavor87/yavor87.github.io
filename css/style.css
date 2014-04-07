@@ -107,8 +107,8 @@ body{
 		.last{ margin-bottom:0px; }
 		
 		section.cv-item  p, li.cv-item  p{ margin-bottom:10px; }
-		li.cv-item ul{ list-style:inside; padding-bottom:10px; list-style-type:disc; }
-		li.cv-item ol{ list-style:inside; list-style-type:decimal; padding-bottom:10px; }
+		section.cv-item ul, li.cv-item ul{ list-style:inside; padding-bottom:10px; list-style-type:disc; }
+		section.cv-item ol, li.cv-item ol{ list-style:inside; list-style-type:decimal; padding-bottom:10px; }
 	
 		h2.cv-section-name{ text-transform:uppercase; font-size:22px; padding-bottom:10px; color:#2F6AB3;  }
 		ul.cv-section-items{ list-style:outside; list-style-type:none;  }
