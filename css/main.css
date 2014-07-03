@@ -234,6 +234,41 @@ footer::before {
         text-shadow: none !important;
     }
 
+    body {
+        width: 100%;
+        margin: 10px;
+        float: none;
+    }
+
+    body > header, footer {
+        display: none;
+    }
+
+    main {
+        padding: 0;
+    }
+
+    h2.cv-section-name {
+        font-size: 16px;
+        font-weight: bold;
+        border-bottom: none;
+    }
+
+    ul.cv-section-items li.cv-item h4 {
+        margin-right: 10px;
+    }
+
+    ul.cv-section-items li span.l-1,
+    ul.cv-section-items li span.l-2,
+    ul.cv-section-items li span.l-3,
+    ul.cv-section-items li span.l-4,
+    ul.cv-section-items li span.l-5,
+    ul.cv-section-items li span.l-6,
+    ul.cv-section-items li span.l-7 {
+        text-indent: 0;
+        background: none;
+    }
+
     a,
     a:visited {
         text-decoration: underline;
@@ -274,10 +309,6 @@ footer::before {
 
     img {
         max-width: 100% !important;
-    }
-
-    @page {
-        margin: 0.5cm;
     }
 
     p,
