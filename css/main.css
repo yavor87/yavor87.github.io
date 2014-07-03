@@ -234,12 +234,20 @@ footer::before {
     .cv-item-time {
         float: none;
     }
-    ul.cv-section-items li strong.topic {
+    #skills ul.cv-section-items li strong.topic {
         font-weight: bold;
         display: block;
         float: none;
     }
     ul.cv-section-items li span.level {
+        display: block;
+        float: none;
+    }
+}
+
+@media screen and (max-width: 390px) {
+    #about ul.cv-section-items li strong.topic {
+        font-weight: bold;
         display: block;
         float: none;
     }
