@@ -221,6 +221,32 @@ footer::before {
     /* Style adjustments for high resolution devices */
 }
 
+@media screen and (max-width: 780px) {
+    html {
+        background-color: inherit;
+        padding: 0;
+    }
+    body {
+        width: 100%;
+        margin: 0;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .cv-item-time {
+        float: none;
+    }
+    ul.cv-section-items li strong.topic {
+        font-weight: bold;
+        display: block;
+        float: none;
+    }
+    ul.cv-section-items li span.level {
+        display: block;
+        float: none;
+    }
+}
+
 /* ==========================================================================
    Print styles.
    Inlined to avoid required HTTP connection: h5bp.com/r
