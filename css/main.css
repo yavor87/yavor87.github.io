@@ -5,9 +5,9 @@
 html {
     background-color: #4C535C;
     color: #454545;
-    font: 0.75em Arial, Helvetica, sans-serif;
+    font: 0.75em Arial, Helvetica, sans-serif; /*12px*/
     line-height: 22px;
-    padding: 4.16666667em 0;
+    padding: 4.16666667em 0; /*50px*/
 }
 body {
     width: 65em; /*780px*/
@@ -17,7 +17,7 @@ body {
 
 body > header {
     background: url(../img/bg-header.png) no-repeat top left;
-    padding: .51282051% 5.12820512% 0 5.12820512%;
+    padding: .51282051% 5.12820512% 0 5.12820512%; /*4px 40px 0 40px;*/
 }
 
 body > header::before {
@@ -46,7 +46,7 @@ main {
     padding: 30px 40px 30px 40px;
 }
 #name {
-    font-size: 3.333335em;
+    font-size: 3.333335em; /*40px;*/
     font-weight: bold;
     padding-top: 30px;
     letter-spacing: -2px;
@@ -54,7 +54,7 @@ main {
     margin-bottom: 20px;
 }
 #profession {
-    font-size: 1.5em;
+    font-size: 1.5em; /*18px*/
     font-weight: normal;
     display: block;
     color: #3279BB;
@@ -94,7 +94,7 @@ li.cv-item ol {
 
 h2.cv-section-name {
     text-transform: uppercase;
-    font-size: 1.833333333em;
+    font-size: 1.833333333em; /*22px;*/
     padding-bottom: 10px;
     font-weight: normal;
     margin: 0;
@@ -110,19 +110,19 @@ ul.cv-section-items li.cv-item {
 }
 
 .cv-item-time {
-    font-size: 1em;
+    font-size: 1em; /*12px;*/
     float: right;
     font-weight: normal;
     color: #666;
 }
 .cv-item-h1 {
-    font-size:  1.3333333em;
+    font-size:  1.3333333em; /*16px;*/
     font-weight: bold;
     color: #272D36;
     display: block;
 }
 .cv-item-h2 {
-    font-size: 1.166666667em;
+    font-size: 1.166666667em; /*14px;*/
     font-style: italic;
     padding-bottom: 10px;
     font-weight: normal;
@@ -287,7 +287,7 @@ footer::before {
     }
 
     h2.cv-section-name {
-        font-size: 1.3333333em;
+        font-size: 1.3333333em; /*16px;*/
         font-weight: bold;
         border-bottom: none;
     }
