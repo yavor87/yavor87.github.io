@@ -1,0 +1,294 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+html {
+    background-color: #4C535C;
+    color: #454545;
+    font: 12px Arial, Helvetica, sans-serif;
+    line-height: 22px;
+    padding: 50px 0;
+}
+body {
+    width: 780px;
+    margin: 0 auto;
+    position: relative;
+}
+
+body > header {
+    background: url(../img/bg-header.png) no-repeat top left;
+    padding: 4px 40px 0 40px;
+}
+
+body > header::before {
+    content: '';
+    display: block;
+    background-color: #eee;
+    border: 1px solid #ddd;
+    border-top: none;
+    height: 30px;
+    margin: 1px 0 40px 0;
+}
+
+body > header::after{
+    content: '';
+    display: block;
+    height: 15px;
+    margin-left: -35px;
+    margin-right: -35px;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    background-color: #F8F8F8;
+}
+
+main {
+    background: url(../img/bg-content.png) repeat-y top left;
+    padding: 30px 40px 30px 40px;
+}
+#name {
+    font-size: 40px;
+    font-weight: bold;
+    padding-top: 30px;
+    letter-spacing: -2px;
+    color: #444444;
+    margin-bottom: 20px;
+}
+#profession {
+    font-size: 18px;
+    font-weight: normal;
+    display: block;
+    color: #3279BB;
+    margin: 0;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    font-family: inherit;
+    vertical-align: baseline;
+}
+
+.cv-section {
+    margin-bottom: 25px;
+}
+.cv-section:last-child {
+    margin-bottom: 0;
+}
+
+li.cv-item  p {
+    margin: 0 0 10px 0;
+}
+li.cv-item ul {
+    padding-bottom: 10px;
+    list-style: disc inside;
+}
+li.cv-item ol {
+    list-style: decimal inside;
+    padding-bottom: 10px;
+}
+
+h2.cv-section-name {
+    text-transform: uppercase;
+    font-size: 22px;
+    padding-bottom: 10px;
+    font-weight: normal;
+    margin: 0;
+    color: #2F6AB3;
+}
+ul.cv-section-items {
+    list-style: none outside;
+}
+
+ul.cv-section-items li.cv-item {
+    border-top: 1px solid #DBDEE2;
+    padding: 10px 15px;
+}
+
+.cv-item-time {
+    font-size: 12px;
+    float: right;
+    font-weight: normal;
+    color: #666;
+}
+.cv-item-h1 {
+    font-size: 16px;
+    font-weight: bold;
+    color: #272D36;
+    display: block;
+}
+.cv-item-h2 {
+    font-size: 14px;
+    font-style: italic;
+    padding-bottom: 10px;
+    font-weight: normal;
+    display: block;
+}
+
+ul.cv-section-items li strong.topic {
+    font-weight: bold;
+    display: block;
+    float: left;
+    width: 150px;
+}
+
+ul.cv-section-items li span.level {
+    width: 140px;
+    display: block;
+    float: left;
+}
+
+ul.cv-section-items li span.l-1{ text-indent:-9999px; background:#ffffff url(../img/level-1.jpg) no-repeat top left; }
+ul.cv-section-items li span.l-2{ text-indent:-9999px; background:#ffffff url(../img/level-2.jpg) no-repeat top left; }
+ul.cv-section-items li span.l-3{ text-indent:-9999px; background:#ffffff url(../img/level-3.jpg) no-repeat top left; }
+ul.cv-section-items li span.l-4{ text-indent:-9999px; background:#ffffff url(../img/level-4.jpg) no-repeat top left; }
+ul.cv-section-items li span.l-5{ text-indent:-9999px; background:#ffffff url(../img/level-5.jpg) no-repeat top left; }
+ul.cv-section-items li span.l-6{ text-indent:-9999px; background:#ffffff url(../img/level-6.jpg) no-repeat top left; }
+ul.cv-section-items li span.l-7{ text-indent:-9999px; background:#ffffff url(../img/level-7.jpg) no-repeat top left; }
+
+ul.cv-section-items li span.level {
+    margin-right: 20px;
+}
+
+footer {
+    background: url(../img/bg-footer.png) no-repeat bottom left;
+    padding: 0 40px 30px 40px;
+    height: 80px;
+}
+footer::before {
+    content: '';
+    display: block;
+    height: 15px;
+    margin: 0 -35px 30px -35px;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    background-color: #F8F8F8;
+}
+#copyright {
+    color: #666;
+    float: left;
+    margin: 0;
+}
+#top {
+    color: #666;
+    float: right;
+    text-decoration: none;
+}
+
+/* ==========================================================================
+   Helper classes
+   ========================================================================== */
+
+/*
+ * Clearfix: contain floats
+ *
+ * For modern browsers
+ * 1. The space content is one way to avoid an Opera bug when the
+ *    `contenteditable` attribute is included anywhere else in the document.
+ *    Otherwise it causes space to appear at the top and bottom of elements
+ *    that receive the `clearfix` class.
+ * 2. The use of `table` rather than `block` is only necessary if using
+ *    `:before` to contain the top-margins of child elements.
+ */
+
+.clearfix:before,
+.clearfix:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+/*
+ * For IE 6/7 only
+ * Include this rule to trigger hasLayout and contain floats.
+ */
+
+.clearfix {
+    *zoom: 1;
+}
+
+@media print,
+       (-o-min-device-pixel-ratio: 5/4),
+       (-webkit-min-device-pixel-ratio: 1.25),
+       (min-resolution: 120dpi) {
+    /* Style adjustments for high resolution devices */
+}
+
+/* ==========================================================================
+   Print styles.
+   Inlined to avoid required HTTP connection: h5bp.com/r
+   ========================================================================== */
+
+@media print {
+    * {
+        background: transparent !important;
+        color: #000 !important; /* Black prints faster: h5bp.com/s */
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+    a,
+    a:visited {
+        text-decoration: underline;
+    }
+
+    a[href]:after {
+        content: " (" attr(href) ")";
+    }
+
+    abbr[title]:after {
+        content: " (" attr(title) ")";
+    }
+
+    /*
+     * Don't show links for images, or javascript/internal links
+     */
+
+    .ir a:after,
+    a[href^="javascript:"]:after,
+    a[href^="#"]:after {
+        content: "";
+    }
+
+    pre,
+    blockquote {
+        border: 1px solid #999;
+        page-break-inside: avoid;
+    }
+
+    thead {
+        display: table-header-group; /* h5bp.com/t */
+    }
+
+    tr,
+    img {
+        page-break-inside: avoid;
+    }
+
+    img {
+        max-width: 100% !important;
+    }
+
+    @page {
+        margin: 0.5cm;
+    }
+
+    p,
+    h2,
+    h3 {
+        orphans: 3;
+        widows: 3;
+    }
+
+    h2,
+    h3 {
+        page-break-after: avoid;
+    }
+}
