@@ -64,6 +64,7 @@ main {
 ul {
     margin: 0;
     padding: 0;
+    vertical-align: baseline;
 }
 
 .cv-section {
@@ -224,27 +225,18 @@ footer::before {
     body > header, main, footer {
         background: none;
     }
-}
-
-@media screen and (max-width: 600px) {
-    .cv-item-time {
+    ul.cv-section-items li strong.topic {
         float: none;
     }
-    #skills ul.cv-section-items li strong.topic {
-        font-weight: bold;
-        display: block;
-        float: none;
+    ul.cv-section-items li strong.topic {
+        display: inline;
+        width: 0;
     }
     ul.cv-section-items li span.level {
         display: block;
         float: none;
     }
-}
-
-@media screen and (max-width: 390px) {
-    #about ul.cv-section-items li strong.topic {
-        font-weight: bold;
-        display: block;
+    .cv-item-time {
         float: none;
     }
 }
