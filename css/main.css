@@ -239,6 +239,9 @@ footer::before {
     .cv-item-time {
         float: none;
     }
+    body > header::before {
+        display: none;
+    }
 }
 
 @media print,
