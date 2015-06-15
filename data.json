@@ -132,32 +132,32 @@
 	"skills": [
 	  {
 	    "technology": ".NET Development",
-	    "skillset": 4,
+	    "skillset": 5,
 	    "description": "C#, VB.NET, WPF, Silverlight, WinForms"
 	  },
 	  {
 	    "technology": "Java",
-	    "skillset": 2,
+	    "skillset": 3,
 	    "description": "Standard Edition"
 	  },
 	  {
 	    "technology": "JavaScript",
-	    "skillset": 2,
+	    "skillset": 3,
 	    "description": "TypeScript, Node.js, jQuery, RequireJS"
 	  },
 	  {
 	    "technology": "Objective-C",
-	    "skillset": 2,
+	    "skillset": 3,
 	    "description": "Developing apps for Mac OS X and iOS"
 	  },
 	  {
 	    "technology": "C++",
-	    "skillset": 2,
+	    "skillset": 3,
 	    "description": "ANSI C++, C++ 11, cmake, Visual C++"
 	  },
 	  {
 	    "technology": "Android",
-	    "skillset": 2,
+	    "skillset": 3,
 	    "description": "Creating Android Apps"
 	  },
 	  {
@@ -167,12 +167,12 @@
 	  },
 	  {
 	    "technology": ".NET Web Development",
-	    "skillset": 2,
+	    "skillset": 4,
 	    "description": "ASP.NET WebForms, ASP.NET MVC, ASP.NET WebApi 2, WCF"
 	  },
 	  {
 	    "technology": "Node.js",
-	    "skillset": 2,
+	    "skillset": 3,
 	    "description": "npm, express, connect, mocha, grunt"
 	  },
 	  {
