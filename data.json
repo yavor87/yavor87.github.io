@@ -121,7 +121,14 @@
 	    "description": "<p> Responsibility: Testing company software products, doing test cases, test plans, test scenarios, helping development team with testing support, submitting bugs to company bug tracking system. </p>"
 	  }
   ],
-	"certificates": [],
+	"certificates": [
+	{
+		"date": "2014-05-19",
+		"name": "Oracle Certified Associate, Java SE 7 Programmer",
+		"issued_by": "Oracle",
+		"license_number": "233305474OCAJSE7"
+	}
+	],
 	"skills": [
 	  {
 	    "technology": ".NET Development",

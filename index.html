@@ -84,10 +84,10 @@
                     <h2 class="cv-section-name">Certifications</h2>
                 </header>
                 <ul class="cv-section-items">
-                    <li class="cv-item">
-                        <span class="cv-item-time"><time datetime="2014-05-19">May 2014</time></span>
-                        <strong class="cv-item-h1">Oracle Certified Associate, Java SE 7 Programmer</strong>
-                        <span class="cv-item-h2"><em>Oracle</em>, License <i>233305474OCAJSE7</i></span>
+                    <li class="cv-item" ng-repeat="cert in cvctrl.cvItems.certificates">
+                        <span class="cv-item-time"><time datetime="{{cert.date}}">{{cert.date | date:'MMM yyyy'}}</time></span>
+                        <strong class="cv-item-h1">{{cert.name}}</strong>
+                        <span class="cv-item-h2"><em>{{cert.issued_by}}</em>, License <i>{{cert.license_number}}</i></span>
                     </li>
                 </ul>
             </section>
