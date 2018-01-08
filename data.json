@@ -37,18 +37,18 @@
   ],
 	"workExperience": [
 	  {
-	    "from": "2015-03-04",
-	    "to": null,
-	    "company": "Musala Soft",
-	    "position": "Senior Software Engineer",
-	    "description": "<p>Working in <em>DSK CRM</em> team in several projects for DSK bank.</p>"
-	  },
-	  {
 	    "from": "2015-03-01",
 	    "to": null,
 	    "company": "New Venture Software",
 	    "position": "Senior Software Developer",
 	    "description": "<p>Responsibility: Custom software development and architecture for customer solutions. Maintenance of production code.</p>"
+	  },
+	  {
+	    "from": "2015-03-04",
+	    "to": "2015-05-04",
+	    "company": "Musala Soft",
+	    "position": "Senior Software Engineer",
+	    "description": "<p>Working in <em>DSK CRM</em> team in several projects for DSK bank.</p>"
 	  },
 	  {
 	    "from": "2014-12-28",
@@ -123,12 +123,17 @@
   ],
 	"certificates": [
 	{
+		"date": "2017-08-24",
+		"name": "70-483 Programming in C#",
+		"issued_by": "Microsoft",
+		"license_number": "G251-4992"
+	},
+	{
 		"date": "2014-05-19",
 		"name": "Oracle Certified Associate, Java SE 7 Programmer",
 		"issued_by": "Oracle",
 		"license_number": "233305474OCAJSE7"
-	}
-	],
+	}],
 	"skills": [
 	  {
 	    "technology": ".NET Development",
