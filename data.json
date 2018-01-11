@@ -201,6 +201,11 @@
 	    "description": "HTML5, CSS 3.0, Bootstrap"
 	  },
 	  {
+	    "technology": "QA",
+	    "skillset": 2,
+	    "description": "Jenkins CI, Selenium WebDriver, TestStudio"
+	  },
+	  {
 	    "technology": "Linux",
 	    "skillset": 3,
 	    "description": "OpenSuse, Mint, Ubuntu, Arch"
