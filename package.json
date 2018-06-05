@@ -1,0 +1,25 @@
+{
+  "name": "yavor87.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yavor87/yavor87.github.io.git"
+  },
+  "author": "Yavor Ivanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yavor87/yavor87.github.io/issues"
+  },
+  "homepage": "https://github.com/yavor87/yavor87.github.io#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  },
+  "scripts": {
+    "start": "http-server"
+  }
+}
