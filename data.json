@@ -1,224 +1,229 @@
 {
-	"firstName": "Yavor",
-	"middleName": "Ivelinov",
-	"lastName": "Ivanov",
-	"profession": "Senior Software Developer",
-	"birthdate": "1987-11-06",
-	"nationality": "Bulgarian",
-	"phone": "(+359) 87 847 40 34",
-	"email": "yavor87@gmail.com",
-	"github": { "link": "https://github.com/yavor87", "caption": "yavor87" },
-	"linkedin": { "link": "http://bg.linkedin.com/pub/yavor-ivanov/3b/24/306/", "caption": "Yavor Ivanov" },
-	"education": [
-	  {
-	    "from": "2010-09-10",
-	    "to": "2012-06-30",
-	    "institution": "Technical University of Sofia",
-	    "description": "Attended <em>Computer Systems and Technologies</em> master course."
-	  },
-	  {
-	    "from": "2006-09-10",
-	    "to": "2010-06-30",
-	    "institution": "University of Ruse \"Angel Kanchev\"",
-	    "description": "Attended <em>Computer Systems and Technologies</em> bachelor course."
-	  },
-	  {
-	    "from": "2001-09-15",
-	    "to": "2006-05-24",
-	    "institution": "ELS \"Geo Milev\" Ruse",
-	    "description": "Attended high school. Primary language: English. Secondary language: French."
-	  },
-	  {
-	    "from": "1994-09-15",
-	    "to": "2001-05-24",
-	    "institution": "\"Vazrazhdane\" School Ruse",
-	    "description": "Attended primary school."
-	  }
+    "firstName": "Yavor",
+    "middleName": "Ivelinov",
+    "lastName": "Ivanov",
+    "profession": "Senior Software Developer",
+    "birthdate": "1987-11-06",
+    "nationality": "Bulgarian",
+    "phone": "(+359) 87 847 40 34",
+    "email": "yavor87@gmail.com",
+    "github": { "link": "https://github.com/yavor87", "caption": "yavor87" },
+    "linkedin": { "link": "http://bg.linkedin.com/pub/yavor-ivanov/3b/24/306/", "caption": "Yavor Ivanov" },
+    "education": [
+      {
+        "from": "2010-09-10",
+        "to": "2012-06-30",
+        "institution": "Technical University of Sofia",
+        "description": "Attended <em>Computer Systems and Technologies</em> master course."
+      },
+      {
+        "from": "2006-09-10",
+        "to": "2010-06-30",
+        "institution": "University of Ruse \"Angel Kanchev\"",
+        "description": "Attended <em>Computer Systems and Technologies</em> bachelor course."
+      },
+      {
+        "from": "2001-09-15",
+        "to": "2006-05-24",
+        "institution": "ELS \"Geo Milev\" Ruse",
+        "description": "Attended high school. Primary language: English. Secondary language: French."
+      },
+      {
+        "from": "1994-09-15",
+        "to": "2001-05-24",
+        "institution": "\"Vazrazhdane\" School Ruse",
+        "description": "Attended primary school."
+      }
   ],
-	"workExperience": [
-	  {
-	    "from": "2015-03-01",
-	    "to": null,
-	    "company": "New Venture Software",
-	    "position": "Senior Software Developer",
-	    "description": "<p>Responsibility: Custom software development and architecture for customer solutions. Maintenance of production code.</p>"
-	  },
-	  {
-	    "from": "2015-03-04",
-	    "to": "2015-05-04",
-	    "company": "Musala Soft",
-	    "position": "Senior Software Engineer",
-	    "description": "<p>Working in <em>DSK CRM</em> team in several projects for DSK bank.</p>"
-	  },
-	  {
-	    "from": "2014-12-28",
-	    "to": "2015-02-28",
-	    "company": "Progress",
-	    "position": "Software Engineer, Senior",
-	    "description": "<p>Working in <em>NativeScript-ios</em> team on a iOS - javascript bridge.</p>"
-	  },
-	  {
-	    "from": "2014-03-17",
-	    "to": "2014-12-28",
-	    "company": "Telerik",
-	    "position": "Senior Software Developer",
-	    "description": "<p>Working in <em>NativeScript-ios</em> team on a iOS - javascript bridge.</p>"
-	  },
-	  {
-	    "from": "2013-09-01",
-	    "to": "2014-03-17",
-	    "company": "Telerik",
-	    "position": "Senior Software Developer",
-	    "description": "<p>Working in <em>XamlTeam4</em>. Responsibilities: ChartView component for Silverlight and WPF, research and integration of new technologies. Introduced native DirectX drawing mode for ChartView component.</p>"
-	  },
-	  {
-	    "from": "2012-09-01",
-	    "to": "2013-09-01",
-	    "company": "Telerik",
-	    "position": "Software Developer",
-	    "description": "<p>Responsibility: One of the founders of <em>Cyclops Business Intelligence team</em>. Responsibilities: Combining & analysing company data in private data warehouse. Creating reports in Tableau Desktop Professional.</p>"
-	  },
-	  {
-	    "from": "2011-08-01",
-	    "to": "2012-09-01",
-	    "company": "Telerik",
-	    "position": "Software Developer",
-	    "description": "<p>Working in <em>X4 datavisualization team</em>. Created or took part in the creation of the following components:</p> <ul> <li>RadBulletGraph for WPF/SL</li> <li>RadChart for WPF/SL</li> <li>RadTreeMap and RadPivotMap for WPF/SL</li> <li>RadChartView for WPF/SL</li> </ul>"
-	  },
-	  {
-	    "from": "2010-08-16",
-	    "to": "2011-08-01",
-	    "company": "Telerik",
-	    "position": "Junior Software Developer",
-	    "description": "<p>Working in <em>X4 datavisualization team</em>. Created or took part in the creation of the following components:</p> <ul> <li>RadSparklines for WPF/SL</li> <li>RadBulletGraph for WPF/SL</li> <li>RadTimeBar for WPF/SL</li> <li>RadChart for WPF/SL</li> <li>RadTreeMap and RadPivotMap for WPF/SL</li> </ul>"
-	  },
-	  {
-	    "from": "2009-05-23",
-	    "to": "2009-08-31",
-	    "company": "Vartec",
-	    "position": "C# developer trainee",
-	    "description": "<p>Responsibility: Implementing new technologies to existing applications, applying design patterns and improving flexibility, compatibility and usability of existing WinForms applications and ASP.NET web services.</p>"
-	  },
-	  {
-	    "from": "2008-09-10",
-	    "to": "2009-05-10",
-	    "company": "University of Rousse",
-	    "position": "C# developer",
-	    "description": "<p> Responsibility: Developing windows and web applications using .NET 3.5 SP1, C# 3, ASP.NET, Silverlight, WCF, WPF for monitoring production systems over the Internet. </p>"
-	  },
-	  {
-	    "from": "2007-12-10",
-	    "to": "2008-02-10",
-	    "company": "Messaging Architects",
-	    "position": "Beta tester",
-	    "description": "<p>Responsibility: Testing company software products.</p>"
-	  },
-	  {
-	    "from": "2007-01-10",
-	    "to": "2007-12-10",
-	    "company": "Novell",
-	    "position": "Beta tester",
-	    "description": "<p> Responsibility: Testing company software products, doing test cases, test plans, test scenarios, helping development team with testing support, submitting bugs to company bug tracking system. </p>"
-	  }
+    "workExperience": [
+      {
+        "from": "2015-03-01",
+        "to": null,
+        "company": "New Venture Software",
+        "position": "Senior Software Developer",
+        "description": "<p>Responsibility: Custom software development and architecture for customer solutions. Maintenance of production code.</p>"
+      },
+      {
+        "from": "2015-03-04",
+        "to": "2015-05-04",
+        "company": "Musala Soft",
+        "position": "Senior Software Engineer",
+        "description": "<p>Working in <em>DSK CRM</em> team in several projects for DSK bank.</p>"
+      },
+      {
+        "from": "2014-12-28",
+        "to": "2015-02-28",
+        "company": "Progress",
+        "position": "Software Engineer, Senior",
+        "description": "<p>Working in <em>NativeScript-ios</em> team on a iOS - javascript bridge.</p>"
+      },
+      {
+        "from": "2014-03-17",
+        "to": "2014-12-28",
+        "company": "Telerik",
+        "position": "Senior Software Developer",
+        "description": "<p>Working in <em>NativeScript-ios</em> team on a iOS - javascript bridge.</p>"
+      },
+      {
+        "from": "2013-09-01",
+        "to": "2014-03-17",
+        "company": "Telerik",
+        "position": "Senior Software Developer",
+        "description": "<p>Working in <em>XamlTeam4</em>. Responsibilities: ChartView component for Silverlight and WPF, research and integration of new technologies. Introduced native DirectX drawing mode for ChartView component.</p>"
+      },
+      {
+        "from": "2012-09-01",
+        "to": "2013-09-01",
+        "company": "Telerik",
+        "position": "Software Developer",
+        "description": "<p>Responsibility: One of the founders of <em>Cyclops Business Intelligence team</em>. Responsibilities: Combining & analysing company data in private data warehouse. Creating reports in Tableau Desktop Professional.</p>"
+      },
+      {
+        "from": "2011-08-01",
+        "to": "2012-09-01",
+        "company": "Telerik",
+        "position": "Software Developer",
+        "description": "<p>Working in <em>X4 datavisualization team</em>. Created or took part in the creation of the following components:</p> <ul> <li>RadBulletGraph for WPF/SL</li> <li>RadChart for WPF/SL</li> <li>RadTreeMap and RadPivotMap for WPF/SL</li> <li>RadChartView for WPF/SL</li> </ul>"
+      },
+      {
+        "from": "2010-08-16",
+        "to": "2011-08-01",
+        "company": "Telerik",
+        "position": "Junior Software Developer",
+        "description": "<p>Working in <em>X4 datavisualization team</em>. Created or took part in the creation of the following components:</p> <ul> <li>RadSparklines for WPF/SL</li> <li>RadBulletGraph for WPF/SL</li> <li>RadTimeBar for WPF/SL</li> <li>RadChart for WPF/SL</li> <li>RadTreeMap and RadPivotMap for WPF/SL</li> </ul>"
+      },
+      {
+        "from": "2009-05-23",
+        "to": "2009-08-31",
+        "company": "Vartec",
+        "position": "C# developer trainee",
+        "description": "<p>Responsibility: Implementing new technologies to existing applications, applying design patterns and improving flexibility, compatibility and usability of existing WinForms applications and ASP.NET web services.</p>"
+      },
+      {
+        "from": "2008-09-10",
+        "to": "2009-05-10",
+        "company": "University of Rousse",
+        "position": "C# developer",
+        "description": "<p> Responsibility: Developing windows and web applications using .NET 3.5 SP1, C# 3, ASP.NET, Silverlight, WCF, WPF for monitoring production systems over the Internet. </p>"
+      },
+      {
+        "from": "2007-12-10",
+        "to": "2008-02-10",
+        "company": "Messaging Architects",
+        "position": "Beta tester",
+        "description": "<p>Responsibility: Testing company software products.</p>"
+      },
+      {
+        "from": "2007-01-10",
+        "to": "2007-12-10",
+        "company": "Novell",
+        "position": "Beta tester",
+        "description": "<p> Responsibility: Testing company software products, doing test cases, test plans, test scenarios, helping development team with testing support, submitting bugs to company bug tracking system. </p>"
+      }
   ],
-	"certificates": [
-	{
-		"date": "2017-08-24",
-		"name": "70-483 Programming in C#",
-		"issued_by": "Microsoft",
-		"license_number": "G251-4992"
-	},
-	{
-		"date": "2014-05-19",
-		"name": "Oracle Certified Associate, Java SE 7 Programmer",
-		"issued_by": "Oracle",
-		"license_number": "233305474OCAJSE7"
-	}],
-	"skills": [
-	  {
-	    "technology": ".NET Development",
-	    "skillset": 5,
-	    "description": "C#, VB.NET, WPF, Silverlight, WinForms"
-	  },
-	  {
-	    "technology": "Java",
-	    "skillset": 3,
-	    "description": "Standard Edition"
-	  },
-	  {
-	    "technology": "JavaScript",
-	    "skillset": 3,
-	    "description": "TypeScript, Node.js, jQuery, RequireJS"
-	  },
-	  {
-	    "technology": "Objective-C",
-	    "skillset": 3,
-	    "description": "Developing apps for Mac OS X and iOS"
-	  },
-	  {
-	    "technology": "C++",
-	    "skillset": 3,
-	    "description": "ANSI C++, C++ 11, cmake, Visual C++"
-	  },
-	  {
-	    "technology": "Android",
-	    "skillset": 3,
-	    "description": "Creating Android Apps"
-	  },
-	  {
-	    "technology": "iOS",
-	    "skillset": 2,
-	    "description": "Creating apps for iOS 6, 7, 8"
-	  },
-	  {
-	    "technology": ".NET Web Development",
-	    "skillset": 4,
-	    "description": "ASP.NET WebForms, ASP.NET MVC, ASP.NET WebApi 2, WCF"
-	  },
-	  {
-	    "technology": "Node.js",
-	    "skillset": 3,
-	    "description": "npm, express, connect, mocha, grunt"
-	  },
-	  {
-	    "technology": "Relational Database",
-	    "skillset": 3,
-	    "description": "MSSQL, MySqL, SQLite, SQL, T-SQL"
-	  },
-	  {
-	    "technology": "NoSQL",
-	    "skillset": 3,
-	    "description": "Microsoft Azure, MongoDB, Couchbase"
-	  },
-	  {
-	    "technology": "VCS",
-	    "skillset": 4,
-	    "description": "TFS, git, GitHub, SVN, TeamPulse"
-	  },
-	  {
-	    "technology": "Web Front-end Design",
-	    "skillset": 2,
-	    "description": "HTML5, CSS 3.0, Bootstrap"
-	  },
-	  {
-	    "technology": "QA",
-	    "skillset": 2,
-	    "description": "Jenkins CI, Selenium WebDriver, TestStudio"
-	  },
-	  {
-	    "technology": "Linux",
-	    "skillset": 3,
-	    "description": "OpenSuse, Mint, Ubuntu, Arch"
-	  },
-	  {
-	    "technology": "Windows",
-	    "skillset": 4,
-	    "description": "Excelent platform knowledge and administrative capabilities"
-	  },
-	  {
-	    "technology": "Microsoft Office Suite",
-	    "skillset": 4,
-	    "description": "Word, Excel, PowerPoint, Outlook, Access, OneNote, Visio"
-	  }
+    "certificates": [
+    {
+        "date": "2017-08-24",
+        "name": "70-483 Programming in C#",
+        "issued_by": "Microsoft",
+        "license_number": "G251-4992"
+    },
+    {
+        "date": "2014-05-19",
+        "name": "Oracle Certified Associate, Java SE 7 Programmer",
+        "issued_by": "Oracle",
+        "license_number": "233305474OCAJSE7"
+    }],
+    "skills": [
+      {
+        "technology": ".NET Development",
+        "skillset": 5,
+        "description": "C#, VB.NET, WPF, SL, WinForms, UWP, Xamarin, XF, Core"
+      },
+      {
+        "technology": "Java",
+        "skillset": 3,
+        "description": "Standard Edition, Maven, Gradle"
+      },
+      {
+        "technology": "JavaScript",
+        "skillset": 3,
+        "description": "TypeScript, Node.js, jQuery, RequireJS, AngularJS, Angular"
+      },
+      {
+        "technology": "Objective-C",
+        "skillset": 3,
+        "description": "Developing apps for Mac OS X and iOS"
+      },
+      {
+        "technology": "C++",
+        "skillset": 3,
+        "description": "ANSI C++, C++ 11, cmake, Visual C++"
+      },
+      {
+        "technology": "Android",
+        "skillset": 3,
+        "description": "Creating Android Apps"
+      },
+      {
+        "technology": "iOS",
+        "skillset": 2,
+        "description": "Creating apps for iOS 6, 7, 8"
+      },
+      {
+        "technology": ".NET Web Development",
+        "skillset": 4,
+        "description": "ASP.NET WebForms, ASP.NET MVC, WCF, ASP.NET Core"
+      },
+      {
+        "technology": "SPA Web Development",
+        "skillset": 4,
+        "description": "AngularJS, Angular [4, 5, 6]"
+      },
+      {
+        "technology": "Node.js",
+        "skillset": 3,
+        "description": "npm, express, connect, mocha, grunt"
+      },
+      {
+        "technology": "Relational Database",
+        "skillset": 3,
+        "description": "MSSQL, MySqL, SQLite, SQL, T-SQL"
+      },
+      {
+        "technology": "NoSQL",
+        "skillset": 3,
+        "description": "MongoDB, Couchbase"
+      },
+      {
+        "technology": "VCS",
+        "skillset": 4,
+        "description": "git, GitHub, Visual Studio Online"
+      },
+      {
+        "technology": "Web Front-end Design",
+        "skillset": 2,
+        "description": "HTML5, CSS 3.0, Bootstrap, Material"
+      },
+      {
+        "technology": "QA",
+        "skillset": 2,
+        "description": "Jenkins CI, Selenium WebDriver, TestStudio"
+      },
+      {
+        "technology": "Linux",
+        "skillset": 3,
+        "description": "OpenSuse, Mint, Ubuntu, Arch"
+      },
+      {
+        "technology": "Windows",
+        "skillset": 4,
+        "description": "Excelent platform knowledge and administrative capabilities"
+      },
+      {
+        "technology": "Microsoft Office Suite",
+        "skillset": 4,
+        "description": "Word, Excel, PowerPoint, Outlook, Access, OneNote, Visio"
+      }
   ]
 }
