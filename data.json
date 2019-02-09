@@ -38,6 +38,7 @@
     "workExperience": [
       {
         "from": "2018-08-01",
+        "to": null,
         "company": "Rubisoft ltd",
         "position": "Founder",
         "description": "<p>Responsibility: Custom software development for Progress. Xamarin Forms application development.</p>"
