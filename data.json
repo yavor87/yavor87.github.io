@@ -37,6 +37,12 @@
   ],
     "workExperience": [
       {
+        "from": "2018-08-01",
+        "company": "Rubisoft ltd",
+        "position": "Founder",
+        "description": "<p>Responsibility: Custom software development for Progress. Xamarin Forms application development.</p>"
+      },
+      {
         "from": "2015-03-01",
         "to": "2018-07-31",
         "company": "New Venture Software",
@@ -166,11 +172,6 @@
         "description": "Creating Android Apps"
       },
       {
-        "technology": "iOS",
-        "skillset": 2,
-        "description": "Creating apps for iOS 6, 7, 8"
-      },
-      {
         "technology": ".NET Web Development",
         "skillset": 4,
         "description": "ASP.NET WebForms, ASP.NET MVC, WCF, ASP.NET Core"
@@ -178,7 +179,7 @@
       {
         "technology": "SPA Web Development",
         "skillset": 4,
-        "description": "AngularJS, Angular [4, 5, 6]"
+        "description": "Angular [4, 5, 6, 7]"
       },
       {
         "technology": "Node.js",
@@ -198,7 +199,7 @@
       {
         "technology": "VCS",
         "skillset": 4,
-        "description": "git, GitHub, Visual Studio Online"
+        "description": "git, GitHub, Azure DevOps, TFS"
       },
       {
         "technology": "Web Front-end Design",
