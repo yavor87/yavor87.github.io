@@ -37,11 +37,18 @@
   ],
     "workExperience": [
       {
-        "from": "2018-08-01",
+        "from": "2019-02-26",
         "to": null,
-        "company": "Rubisoft ltd",
-        "position": "Founder",
-        "description": "<p>Responsibility: Custom software development for Progress. Xamarin Forms application development.</p>"
+        "company": "Synergy Sports",
+        "position": "Senior Software Developer",
+        "description": "<p>Responsibility: Sport analytics mobile app development for iOS and Android in Xamarin and React Native.</p>"
+      },
+      {
+        "from": "2018-09-01",
+        "to": "2019-01-31",
+        "company": "Progress",
+        "position": "Contractor",
+        "description": "<p>Xamarin Forms demo app development (<em<Todo and ERP apps</em>).</p>"
       },
       {
         "from": "2015-03-01",
