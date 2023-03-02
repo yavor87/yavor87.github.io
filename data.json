@@ -222,7 +222,7 @@
       {
         "technology": "QA",
         "skillset": 2,
-        "description": "Jenkins CI, Selenium WebDriver, TestStudio"
+        "description": "Jenkins CI, TeamCity, Selenium WebDriver, TestStudio"
       },
       {
         "technology": "Linux",
