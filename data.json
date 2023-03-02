@@ -152,12 +152,12 @@
       {
         "technology": ".NET Development",
         "skillset": 5,
-        "description": "C#, VB.NET, WPF, SL, WinForms, UWP, Xamarin, XF, Core"
+        "description": "C#, VB.NET, WPF, SL, WinForms, UWP, Xamarin, Xamarin, Xamarin Forms, dotnet core"
       },
       {
         "technology": "Java",
         "skillset": 3,
-        "description": "Standard Edition, Maven, Gradle"
+        "description": "Java SE, OpenJDK, Maven, Gradle"
       },
       {
         "technology": "JavaScript",
@@ -165,7 +165,7 @@
         "description": "TypeScript, Node.js, jQuery, RequireJS, AngularJS, Angular"
       },
       {
-        "technology": "Objective-C",
+        "technology": "Objective-C, Swift",
         "skillset": 3,
         "description": "Developing apps for Mac OS X and iOS"
       },
@@ -187,7 +187,12 @@
       {
         "technology": "SPA Web Development",
         "skillset": 4,
-        "description": "Angular [4, 5, 6, 7]"
+        "description": "Angular, React"
+      },
+      {
+        "technology": "React Native",
+        "skillset": 2,
+        "description": "Developing ios &amp; android apps"
       },
       {
         "technology": "Node.js",
@@ -222,7 +227,7 @@
       {
         "technology": "Linux",
         "skillset": 3,
-        "description": "OpenSuse, Mint, Ubuntu, Arch"
+        "description": "OpenSuse, Mint, Ubuntu, Arch, Fedora, Debian, Cent OS"
       },
       {
         "technology": "Windows",
