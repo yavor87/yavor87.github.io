@@ -152,7 +152,7 @@
       {
         "technology": ".NET Development",
         "skillset": 5,
-        "description": "C#, VB.NET, WPF, SL, WinForms, UWP, Xamarin, Xamarin, Xamarin Forms, dotnet core"
+        "description": "C#, VB, WPF, SL, WinForms, UWP, Xamarin, XF"
       },
       {
         "technology": "Java",
@@ -162,12 +162,12 @@
       {
         "technology": "JavaScript",
         "skillset": 3,
-        "description": "TypeScript, Node.js, jQuery, RequireJS, AngularJS, Angular"
+        "description": "TypeScript, Node.js, Angular, React"
       },
       {
         "technology": "Objective-C, Swift",
         "skillset": 3,
-        "description": "Developing apps for Mac OS X and iOS"
+        "description": "Developing apps for Mac OS X & iOS"
       },
       {
         "technology": "C++",
@@ -192,7 +192,7 @@
       {
         "technology": "React Native",
         "skillset": 2,
-        "description": "Developing ios &amp; android apps"
+        "description": "Developing ios & android apps"
       },
       {
         "technology": "Node.js",
