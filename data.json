@@ -41,21 +41,28 @@
         "to": null,
         "company": "Synergy Sports",
         "position": "Senior Software Developer",
-        "description": "<p>Responsibility: Sport analytics mobile app development for iOS and Android in Xamarin and React Native.</p>"
+        "description": "<p>Sport analytics mobile app development for iOS and Android in Xamarin and React Native.</p>"
+      },
+      {
+        "from": "2019-02-01",
+        "to": "2023-01-31",
+        "company": "Gunvor",
+        "position": "Senior WPF Software Developer",
+        "description": "<p>Front end developer, skilled in finding solutions of complex technical issues and providing guidance to fellow developers. Proficient in WPF. Designed innovative frameworks that facilitate the development of enterprise software within the company.</p><p>Additional skills: (WPF, fody, Telerik, Syncfusion, Caliburn.micro, octopus-deploy, TeamCity)</p>"
       },
       {
         "from": "2018-09-01",
         "to": "2019-01-31",
         "company": "Progress",
         "position": "Contractor",
-        "description": "<p>Xamarin Forms demo app development (<em<Todo and ERP apps</em>).</p>"
+        "description": "<p>Xamarin Forms demo app development (<a href=\"https://play.google.com/store/apps/details?id=com.telerik.TodoApp\">To-Do</a> and <a href=\"https://play.google.com/store/apps/details?id=com.telerik.ErpApp\">ERP</a> apps).</p>"
       },
       {
         "from": "2015-03-01",
         "to": "2018-07-31",
         "company": "New Venture Software",
         "position": "Senior Software Developer",
-        "description": "<p>Responsibility: Custom software development and professional services for NVS and Progress clients. Progress Virtual Classroom trainings.</p>"
+        "description": "<p>Custom software development and professional services for NVS and Progress clients. Progress Virtual Classroom trainings.</p>"
       },
       {
         "from": "2015-03-04",
@@ -90,7 +97,7 @@
         "to": "2013-09-01",
         "company": "Telerik",
         "position": "Software Developer",
-        "description": "<p>Responsibility: One of the founders of <em>Cyclops Business Intelligence team</em>. Responsibilities: Combining & analysing company data in private data warehouse. Creating reports in Tableau Desktop Professional.</p>"
+        "description": "<p>One of the founders of <em>Cyclops Business Intelligence team</em>. Responsibilities: Combining & analysing company data in private data warehouse. Creating reports in Tableau Desktop Professional.</p>"
       },
       {
         "from": "2011-08-01",
@@ -111,28 +118,28 @@
         "to": "2009-08-31",
         "company": "Vartec",
         "position": "C# developer trainee",
-        "description": "<p>Responsibility: Implementing new technologies to existing applications, applying design patterns and improving flexibility, compatibility and usability of existing WinForms applications and ASP.NET web services.</p>"
+        "description": "<p>Implementing new technologies to existing applications, applying design patterns and improving flexibility, compatibility and usability of existing WinForms applications and ASP.NET web services.</p>"
       },
       {
         "from": "2008-09-10",
         "to": "2009-05-10",
         "company": "University of Rousse",
         "position": "C# developer",
-        "description": "<p> Responsibility: Developing windows and web applications using .NET 3.5 SP1, C# 3, ASP.NET, Silverlight, WCF, WPF for monitoring production systems over the Internet. </p>"
+        "description": "<p> Developing windows and web applications using .NET 3.5 SP1, C# 3, ASP.NET, Silverlight, WCF, WPF for monitoring production systems over the Internet. </p>"
       },
       {
         "from": "2007-12-10",
         "to": "2008-02-10",
         "company": "Messaging Architects",
         "position": "Beta tester",
-        "description": "<p>Responsibility: Testing company software products.</p>"
+        "description": "<p>Testing company software products.</p>"
       },
       {
         "from": "2007-01-10",
         "to": "2007-12-10",
         "company": "Novell",
         "position": "Beta tester",
-        "description": "<p> Responsibility: Testing company software products, doing test cases, test plans, test scenarios, helping development team with testing support, submitting bugs to company bug tracking system. </p>"
+        "description": "<p> Testing company software products, doing test cases, test plans, test scenarios, helping development team with testing support, submitting bugs to company bug tracking system. </p>"
       }
   ],
     "certificates": [
@@ -152,61 +159,51 @@
       {
         "technology": ".NET Development",
         "skillset": 5,
-        "description": "C#, VB, WPF, SL, WinForms, UWP, Xamarin, XF"
+        "description": "C#, VB, WPF, Silverligt, WinForms, UWP"
       },
       {
         "technology": "Java",
-        "skillset": 3,
-        "description": "Java SE, OpenJDK, Maven, Gradle"
-      },
-      {
-        "technology": "JavaScript",
-        "skillset": 3,
-        "description": "TypeScript, Node.js, Angular, React"
-      },
-      {
-        "technology": "Objective-C, Swift",
-        "skillset": 3,
-        "description": "Developing apps for Mac OS X & iOS"
+        "skillset": 2,
+        "description": "Java SE, OpenJDK, JavaFX, Maven, Gradle"
       },
       {
         "technology": "C++",
-        "skillset": 3,
+        "skillset": 2,
         "description": "ANSI C++, C++ 11, cmake, Visual C++"
       },
       {
-        "technology": "Android",
+        "technology": "Native mobile",
+        "skillset": 2,
+        "description": "Objective-C, Swift, Java, Kotlin"
+      },
+      {
+        "technology": "Cross platform mobile",
         "skillset": 3,
-        "description": "Creating Android Apps"
+        "description": "Xamarin, Xamarin Forms, React Native"
       },
       {
         "technology": ".NET Web Development",
-        "skillset": 4,
-        "description": "ASP.NET WebForms, ASP.NET MVC, WCF, ASP.NET Core"
-      },
-      {
-        "technology": "SPA Web Development",
-        "skillset": 4,
-        "description": "Angular, React"
-      },
-      {
-        "technology": "React Native",
         "skillset": 2,
-        "description": "Developing ios & android apps"
+        "description": "ASP.NET Core, ASP.NET MVC, ASP.NET WebForms, WCF"
       },
       {
-        "technology": "Node.js",
-        "skillset": 3,
-        "description": "npm, express, connect, mocha, grunt"
+        "technology": "JS Web Development",
+        "skillset": 2,
+        "description": "Angular, React, Express"
+      },
+      {
+        "technology": "Cloud",
+        "skillset": 2,
+        "description": "AWS (EC2, S3, Kinesis, Lambda), Azure, DigitalOcean"
       },
       {
         "technology": "Relational Database",
-        "skillset": 3,
+        "skillset": 2,
         "description": "MSSQL, MySqL, SQLite, SQL, T-SQL"
       },
       {
         "technology": "NoSQL",
-        "skillset": 3,
+        "skillset": 2,
         "description": "MongoDB, Couchbase"
       },
       {
@@ -225,19 +222,9 @@
         "description": "Jenkins CI, TeamCity, Selenium WebDriver, TestStudio"
       },
       {
-        "technology": "Linux",
-        "skillset": 3,
-        "description": "OpenSuse, Mint, Ubuntu, Arch, Fedora, Debian, Cent OS"
-      },
-      {
-        "technology": "Windows",
+        "technology": "OS",
         "skillset": 4,
-        "description": "Excelent platform knowledge and administrative capabilities"
-      },
-      {
-        "technology": "Microsoft Office Suite",
-        "skillset": 4,
-        "description": "Word, Excel, PowerPoint, Outlook, Access, OneNote, Visio"
+        "description": "Windows, Linux, MacOS, bash, zsh, powershell"
       }
   ]
 }
