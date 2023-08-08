@@ -136,11 +136,11 @@ ul.cv-section-items li span.level {
     float: left;
 }
 
-ul.cv-section-items li span.l-1{ text-indent:-9999px; background:#ffffff url(../img/level-1.jpg) no-repeat top left; }
-ul.cv-section-items li span.l-2{ text-indent:-9999px; background:#ffffff url(../img/level-2.jpg) no-repeat top left; }
-ul.cv-section-items li span.l-3{ text-indent:-9999px; background:#ffffff url(../img/level-3.jpg) no-repeat top left; }
-ul.cv-section-items li span.l-4{ text-indent:-9999px; background:#ffffff url(../img/level-4.jpg) no-repeat top left; }
-ul.cv-section-items li span.l-5{ text-indent:-9999px; background:#ffffff url(../img/level-5.jpg) no-repeat top left; }
+ul.cv-section-items li span.l-1{ text-indent:-9999px; background:#ffffff url(../img/level-1.png) no-repeat top left; }
+ul.cv-section-items li span.l-2{ text-indent:-9999px; background:#ffffff url(../img/level-2.png) no-repeat top left; }
+ul.cv-section-items li span.l-3{ text-indent:-9999px; background:#ffffff url(../img/level-3.png) no-repeat top left; }
+ul.cv-section-items li span.l-4{ text-indent:-9999px; background:#ffffff url(../img/level-4.png) no-repeat top left; }
+ul.cv-section-items li span.l-5{ text-indent:-9999px; background:#ffffff url(../img/level-5.png) no-repeat top left; }
 
 ul.cv-section-items li span.level {
     margin-right: 20px;
@@ -289,9 +289,7 @@ footer::before {
     ul.cv-section-items li span.l-2,
     ul.cv-section-items li span.l-3,
     ul.cv-section-items li span.l-4,
-    ul.cv-section-items li span.l-5,
-    ul.cv-section-items li span.l-6,
-    ul.cv-section-items li span.l-7 {
+    ul.cv-section-items li span.l-5 {
         text-indent: 0;
         background: none;
     }

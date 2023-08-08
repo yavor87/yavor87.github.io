@@ -7,11 +7,10 @@ app.controller('cvController', ['$http', function($http) {
     ctrl.cvItems = data;
   });
   this.shortName = function() {
-    return this.cvItems.firstName + ' ' + this.cvItems.lastName;
+    return `${this.cvItems.firstName} ${this.cvItems.lastName}`;
   };
   this.fullName = function() {
-    return this.cvItems.firstName + ' ' + this.cvItems.middleName +
-      ' ' + this.cvItems.lastName;
+    return `${this.cvItems.firstName} ${this.cvItems.middleName} ${this.cvItems.lastName}`;
   };
   
   this.skillsetMap = {
@@ -19,7 +18,7 @@ app.controller('cvController', ['$http', function($http) {
     2: "Some Experience",
     3: "Significant Experience",
     4: "Expertise",
-    5: "Advanced Skills"
+    5: "Proficiency"
   };
   this.skillsetPhonetic = function(skillset) {
     return this.skillsetMap[skillset];
