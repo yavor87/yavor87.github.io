@@ -157,19 +157,29 @@
     }],
     "skills": [
       {
-        "technology": ".NET Development",
+        "technology": ".NET",
         "skillset": 5,
-        "description": "C#, VB, WPF, Silverligt, WinForms, UWP"
+        "description": "C#, VB, classic .NET, dotnet core, nuget"
       },
       {
         "technology": "Java",
         "skillset": 2,
-        "description": "Java SE, OpenJDK, JavaFX, Maven, Gradle"
+        "description": "Java SE, OpenJDK, Maven, Gradle"
       },
       {
         "technology": "C++",
         "skillset": 2,
         "description": "ANSI C++, C++ 11, cmake, Visual C++"
+      },
+      {
+        "technology": ".NET Desktop development",
+        "skillset": 5,
+        "description": "WPF, UWP, WinForms, Direct2D, Telerik controls"
+      },
+      {
+        "technology": "Cross platform Desktop",
+        "skillset": 3,
+        "description": "Avalonia, Skia, Silverligt, JavaFX, Xamarin, Maui"
       },
       {
         "technology": "Native mobile",
@@ -182,12 +192,12 @@
         "description": "Xamarin, Xamarin Forms, React Native"
       },
       {
-        "technology": ".NET Web Development",
+        "technology": ".NET Web development",
         "skillset": 2,
         "description": "ASP.NET Core, ASP.NET MVC, ASP.NET WebForms, WCF"
       },
       {
-        "technology": "JS Web Development",
+        "technology": "JS Web development",
         "skillset": 2,
         "description": "Angular, React, Express"
       },
