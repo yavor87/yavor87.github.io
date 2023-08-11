@@ -172,7 +172,7 @@
         "description": "ANSI C++, C++ 11, cmake, Visual C++"
       },
       {
-        "technology": ".NET Desktop development",
+        "technology": ".NET Desktop",
         "skillset": 5,
         "description": "WPF, UWP, WinForms, Direct2D, Telerik controls"
       },
