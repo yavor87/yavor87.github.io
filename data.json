@@ -37,8 +37,15 @@
   ],
     "workExperience": [
       {
-        "from": "2019-02-26",
+        "from": "2023-10-02",
         "to": null,
+        "company": "Chaos Software",
+        "position": "Senior Software Developer",
+        "description": "<p>Part of <em<Enscape</em> GUI team with focus on macOS and iOS platform specifics. Tech stack: dotnet and Avalonia UI.</p>"
+      },
+      {
+        "from": "2019-02-26",
+        "to": "2023-10-01",
         "company": "Synergy Sports",
         "position": "Senior Software Developer",
         "description": "<p>Sport analytics mobile app development for iOS and Android in Xamarin and React Native.</p>"
