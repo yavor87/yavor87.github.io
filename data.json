@@ -185,7 +185,7 @@
       },
       {
         "technology": "Cross platform Desktop",
-        "skillset": 2,
+        "skillset": 4,
         "description": "Avalonia, Skia, Silverlight, JavaFX, Xamarin, Maui"
       },
       {
@@ -195,7 +195,7 @@
       },
       {
         "technology": "Cross platform mobile",
-        "skillset": 3,
+        "skillset": 4,
         "description": "Avalonia, Xamarin, Xamarin Forms, React Native"
       },
       {
