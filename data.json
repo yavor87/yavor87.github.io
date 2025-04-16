@@ -166,7 +166,7 @@
       {
         "technology": ".NET",
         "skillset": 5,
-        "description": "C#, VB, classic .NET, dotnet core, nuget"
+        "description": "C#, VB, .NET (3, 4, 4.5, 4.8), dotnet core (2, 3, 3.1), dotnet (5,6,7,8,9)"
       },
       {
         "technology": "Java",
@@ -186,7 +186,7 @@
       {
         "technology": "Cross platform Desktop",
         "skillset": 2,
-        "description": "Avalonia, Skia, Silverligt, JavaFX, Xamarin, Maui"
+        "description": "Avalonia, Skia, Silverlight, JavaFX, Xamarin, Maui"
       },
       {
         "technology": "Native mobile",
@@ -196,7 +196,7 @@
       {
         "technology": "Cross platform mobile",
         "skillset": 3,
-        "description": "Xamarin, Xamarin Forms, React Native"
+        "description": "Avalonia, Xamarin, Xamarin Forms, React Native"
       },
       {
         "technology": ".NET Web development",
@@ -211,12 +211,12 @@
       {
         "technology": "Cloud",
         "skillset": 2,
-        "description": "AWS (EC2, S3, Kinesis, Lambda), Azure, DigitalOcean, Docker"
+        "description": "Docker, AWS (EC2, S3, Kinesis, Lambda), Azure, DigitalOcean, Balena"
       },
       {
         "technology": "Relational Database",
         "skillset": 2,
-        "description": "MSSQL, MySqL, SQLite, SQL, T-SQL"
+        "description": "MSSQL, MySqL, SQLite, PostgreSQL, SQL, T-SQL"
       },
       {
         "technology": "NoSQL",
